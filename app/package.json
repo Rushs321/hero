@@ -12,7 +12,8 @@
     "express-basic-auth": "^1.2.0",
     "lodash.pick": "^4.4.0",
     "node-fetch": "^2.7.0",
-    "sharp": "^0.28.2"
+    "sharp": "^0.33.5",
+   "spdy": "4.0.2"
   },
   "repository": {
     "type": "git",
